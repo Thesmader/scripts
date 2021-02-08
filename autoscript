@@ -10,4 +10,4 @@ else
   chmod +x $SCRIPT_FILE
 fi
 
-vim $SCRIPT_FILE
+nvim $SCRIPT_FILE
